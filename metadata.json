@@ -1,0 +1,7 @@
+{
+  "name": "AstroSpouse: Celestial Match Finder",
+  "description": "Discover your ideal spouse's astrological profile and the specific dates they might have been born using a combination of Indian (Vedic) and Western astrology.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
